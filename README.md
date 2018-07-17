@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch05-10-script-play-video-sequence
+# unity-cookbook-2018-ch13-03-script-play-video-sequence
